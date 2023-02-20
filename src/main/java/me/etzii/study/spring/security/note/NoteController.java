@@ -1,7 +1,7 @@
 package me.etzii.study.spring.security.note;
 
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.user.User;
+import me.etzii.study.spring.security.user.User;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

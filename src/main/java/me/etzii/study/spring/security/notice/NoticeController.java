@@ -1,7 +1,7 @@
 package me.etzii.study.spring.security.notice;
 
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.note.NoteRegisterDto;
+import me.etzii.study.spring.security.note.NoteRegisterDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

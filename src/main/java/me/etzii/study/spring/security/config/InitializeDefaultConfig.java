@@ -1,10 +1,10 @@
 package me.etzii.study.spring.security.config;
 
 import lombok.RequiredArgsConstructor;
-import me.benny.practice.spring.security.note.NoteService;
-import me.benny.practice.spring.security.notice.NoticeService;
-import me.benny.practice.spring.security.user.User;
-import me.benny.practice.spring.security.user.UserService;
+import me.etzii.study.spring.security.note.NoteService;
+import me.etzii.study.spring.security.notice.NoticeService;
+import me.etzii.study.spring.security.user.User;
+import me.etzii.study.spring.security.user.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
